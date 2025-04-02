@@ -1,4 +1,4 @@
-# xmr-node-proxy
+fadcb67654efffcef6894c2eb5a878f1cfe7376c# xmr-node-proxy
 
 Supports all known cryptonight/heavy/light/pico coins:
 
